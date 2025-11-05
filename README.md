@@ -1,0 +1,2 @@
+# bsky-tokimeki-switcher
+BlueskyとTokimekiのURLを、ボタンやショートカットで切り替えるUserScript
