@@ -1,4 +1,4 @@
-# 🌈 Bluesky⇔Tokimeki 切り替え (bskyTokimeki) v7.8
+# 🔄️ Bluesky⇔Tokimeki 切り替え (bskyTokimeki) v7.8
 
 このスクリプトは、**Bluesky (bsky.app)** と **Tokimeki (tokimeki.blue)** のURLを、**ボタン、キーボードショートカット、右クリックメニュー**で瞬時に切り替えるUserScriptです。
 
