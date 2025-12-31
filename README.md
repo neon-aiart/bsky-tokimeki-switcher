@@ -7,18 +7,15 @@
 
 ---
 
-## 🚀 インストール方法
+### ✨ インストール方法 / Installation Guide
 
-UserScriptのインストールは、**GreasyFork**から行うのが**最も簡単**です。
-
-**[✨ GreasyForkでインストールする ✨](https://greasyfork.org/ja/scripts/545465)**
-
-### 拡張機能の準備
-
-このスクリプトを使うには、UserScript管理のための拡張機能が必要です。
-
+* **UserScriptマネージャーをインストール (Install the UserScript manager):**
    * **Tampermonkey**: [https://www.tampermonkey.net/](https://www.tampermonkey.net/)
    * **ScriptCat**: [https://scriptcat.org/](https://scriptcat.org/)
+
+* **スクリプトをインストール (Install the script):**
+   * [Greasy Fork](https://greasyfork.org/ja/scripts/545465) にアクセスし、「インストール」ボタンを押してください。  
+     Access and click the "Install" button.
 
 ---
 
