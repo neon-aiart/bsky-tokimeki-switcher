@@ -14,7 +14,7 @@
   * **ScriptCat**: [https://scriptcat.org/](https://scriptcat.org/)
 
 * **スクリプトをインストール (Install the script):**
-  * [Greasy Fork](https://greasyfork.org/ja/scripts/545465) にアクセスし、「インストール」ボタンを押してください。  
+  * [Greasy Fork](https://greasyfork.org/scripts/545465) にアクセスし、「インストール」ボタンを押してください。  
      Access and click the "Install" button.
 
 ---
